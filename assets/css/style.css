@@ -1,1 +1,10 @@
-/*# sourceMappingURL=style.css.map */
+body {
+  color: white;
+}
+
+.icon-container a {
+  display: inline-block;
+  width: 50px;
+  font-size: 30px;
+  color: rgba(255, 255, 255, 0.5);
+}/*# sourceMappingURL=style.css.map */
