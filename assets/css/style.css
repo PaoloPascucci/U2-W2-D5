@@ -52,4 +52,20 @@ footer p {
   color: #fff;
   padding: 5px 10px;
   font-weight: 700;
+}
+
+.fs-sm {
+  font-size: small;
+  margin-top: 12px;
+  margin-left: 8px;
+}
+
+.form-check {
+  height: 50px;
+}
+
+.ratings {
+  width: -moz-fit-content;
+  width: fit-content;
+  font-weight: 600;
 }/*# sourceMappingURL=style.css.map */
